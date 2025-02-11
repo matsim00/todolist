@@ -1,4 +1,4 @@
-# To-Do List (Lista delle cose da fare)
+# To-Do List
 
 ## Descrizione
 Questa applicazione "To-Do List" ti permette di creare e gestire una lista di attività (o una lista della spesa) tramite un'interfaccia grafica semplice e intuitiva, utilizzando la libreria Tkinter di Python. Puoi aggiungere, rimuovere e segnare come completati gli elementi della lista.
