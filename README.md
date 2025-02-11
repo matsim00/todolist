@@ -32,7 +32,7 @@ Per eseguire questa applicazione, è necessario avere un ambiente Python configu
    ```bash
    sudo apt-get install python3-pip
 
-O su CentOS:
+   O su CentOS:
 
    ```bash
 sudo yum install python3-pip
