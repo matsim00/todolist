@@ -1,1 +1,27 @@
-# todolist
+# To-Do List (Lista delle cose da fare)
+
+## Descrizione
+Questa applicazione "To-Do List" ti permette di creare e gestire una lista di attività (o una lista della spesa) tramite un'interfaccia grafica semplice e intuitiva, utilizzando la libreria Tkinter di Python. Puoi aggiungere, rimuovere e segnare come completati gli elementi della lista.
+
+### Funzionalità:
+- **Aggiungi attività**: Inserisci nuovi elementi nella lista.
+- **Rimuovi attività**: Rimuovi un elemento selezionato dalla lista.
+- **Segna come completato**: Segna un'attività come completata aggiungendo un'icona "✔" davanti all'elemento.
+
+## Prerequisiti
+
+### Ambiente di esecuzione:
+Per eseguire questa applicazione, è necessario avere un ambiente Python configurato correttamente. Si consiglia di utilizzare un server Linux (ad esempio CentOS, Ubuntu, ecc.) e un applicativo come **MobaXterm** per facilitare l'interazione con il server tramite terminale e interfaccia grafica.
+
+### Software richiesti:
+- **Python** (versione 3.x)
+- **pip** (gestore di pacchetti Python)
+- **Tkinter** (libreria per l'interfaccia grafica)
+  
+### Installazione e configurazione dell'ambiente:
+
+1. **Installa Python**:
+   Se non hai già Python installato, puoi installarlo eseguendo il comando:
+   
+   ```bash
+   sudo apt-get install python3
