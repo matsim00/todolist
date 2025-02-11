@@ -75,7 +75,7 @@ Per eseguire questa applicazione, è necessario avere un ambiente Python configu
 5. **Clona il repository**:
    Clona questo progetto sul tuo server Linux utilizzando git:
    ```bash
-   git clone https://github.com/tuo-utente/to-do-list.git
+   git clone https://github.com/matsim00/to-do-list.git
    ```
 
 6. **Esegui il programma**:
