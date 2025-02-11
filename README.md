@@ -25,3 +25,40 @@ Per eseguire questa applicazione, è necessario avere un ambiente Python configu
    
    ```bash
    sudo apt-get install python3
+
+2. **Installa pip**:
+   Se pip non è installato, puoi farlo con il comando:
+
+   ```bash
+   sudo apt-get install python3-pip
+
+O su CentOS:
+
+   ```bash
+sudo yum install python3-pip
+
+3. **Installa le dipendenze**:
+Installa le librerie necessarie per eseguire il progetto:
+
+   ```bash
+pip install tkinter
+
+4. **Test di Tkinter**:
+Tkinter dovrebbe essere già incluso con Python, ma se non lo hai, puoi installarlo separatamente. Per esempio, su Ubuntu puoi farlo con:
+
+   ```bash
+sudo apt-get install python3-tk
+
+5. **Clona il repository**:
+Clona questo progetto sul tuo server Linux utilizzando git:
+
+   ```bash
+git clone https://github.com/tuo-utente/to-do-list.git
+
+6. **Esegui il programma**:
+Una volta che hai clonato il repository e installato tutte le dipendenze, puoi eseguire l'applicazione con il seguente comando:
+
+   ```bash
+python3 todo_list.py
+
+Questo avvierà l'applicazione con l'interfaccia grafica di Tkinter, dove potrai aggiungere, rimuovere e completare le attività.
