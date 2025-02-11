@@ -70,3 +70,17 @@ Per eseguire questa applicazione, è necessario avere un ambiente Python configu
 
    ```bash
    python3 -c "import tkinter"
+   ```
+
+5. Clona il repository: Clona questo progetto sul tuo server Linux utilizzando git:
+
+   ```bash
+git clone https://github.com/tuo-utente/to-do-list.git
+   ```
+
+6. Esegui il programma: Una volta che hai clonato il repository e installato tutte le dipendenze, puoi eseguire l'applicazione con il seguente comando:
+   ```bash
+python3 todolist.py
+   ```
+
+Questo avvierà l'applicazione con l'interfaccia grafica di Tkinter, dove potrai aggiungere, rimuovere e completare le attività.
